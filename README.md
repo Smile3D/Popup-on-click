@@ -1,27 +1,20 @@
 # Popup-on-click
 
-Селектор блоков с попапами:
+Селектор блоков с попапами:<br>
+<code>.popup-holder<code><br>
 
-.popup-holder
+Селектор попапа внутри блока:<br>
+<code>.popup<code><br>
 
-Селектор попапа внутри блока:
+Селектор кнопки открывающей попап:<br>
+<code>.open<code><br>
 
-.popup
+Селектор кнопки закрывающей попап:<br>
+<code>.close<code><br>
 
-Селектор кнопки открывающей попап:
+Класс блока при активном попапе:<br>
+<code>popup-active<code><br>
 
-.open
-
-Селектор кнопки закрывающей попап:
-
-.close
-
-Класс блока при активном попапе:
-
-popup-active
-
-Переключение по:
-
-mode: 'hover'
-
-mode: 'click' //default
+Переключение по:<br>
+<code>mode: 'hover'<code><br>
+<code>mode: 'click' //default<code>
